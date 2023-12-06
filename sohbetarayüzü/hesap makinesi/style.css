@@ -1,0 +1,39 @@
+body{
+    background-color:gray;
+}
+
+
+
+#hesapM{
+    margin: 0px auto;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    background-color:palevioletred;
+    border: 2px solid;
+    border-radius: 5px;
+    }
+    #gösterge{
+        text-align: center;
+        padding: 10px 0px 10px 0 px;
+    }
+    #sonuc{
+        border: 2px solid;
+        padding: 10px;
+        border-radius: 10px;
+        width: 80%;
+        text-align: right;
+        word-wrap: break-word;
+        height: 40px;
+    }
+    #buttonlar{
+        text-align: center;
+    }
+    button{
+        width: 80px;
+        height: 50px;
+        margin: 4px;
+        border-radius: 5px;
+        background-color:pink;
+        outline: none;
+    }
